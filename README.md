@@ -242,4 +242,4 @@ This repository serves as the official landing page for Call of Duty 4. The soft
 **Get the most recent version of Call of Duty 4 today!**
 
 ---
-**Last updated:** 2026-10-19 17:58:04 UTC
+**Last updated:** 2026-10-19 22:00:28 UTC
